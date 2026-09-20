@@ -4,7 +4,7 @@ Easily **change your app icon dynamically** in **Expo SDK 53+**!
 
 ## What's New in v3:
 
-- **Expo SDK 53/54/55 support**
+- **Expo SDK 53+ compatibility**
 - **Android crash fix** — no more unexpected app closures after icon change
 - **`setAppIcon(null)` fix** — resetting to default now works correctly on Android
 - **Proper error handling** — `setAppIcon` now returns `false` when it actually fails
